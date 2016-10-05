@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='simple_tts',
-      version='0.1',
+      version='0.2',
       description='Simple TTS using Festival',
       url='',
       author='Ewen Chou',
